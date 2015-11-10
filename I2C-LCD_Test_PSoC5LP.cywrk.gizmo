@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit">
+<ExpandedNodeIds>
+<v>I2C-LCD_Test_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\TopDesign</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\TopDesign</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\Header Files</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\Source Files</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2C-LCD_Test_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2C-LCD_Test_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\TopDesign</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\TopDesign\TopDesign.cysch</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\TopDesign</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2C-LCD_Test_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\TopDesign</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\TopDesign\TopDesign.cysch</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\TopDesign</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2C-LCD_Test_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_BOOT.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_INT.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_MASTER.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_PM.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_SLAVE.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Pin_I2CM_LCD_Reset.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Pin_I2CM_LCD_SCL.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Pin_I2CM_LCD_SDA.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\SPLC792-I2C.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\I2C-LCD_Test_CQ_PSoC5LP.elf</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\I2C-LCD_Test_CQ_PSoC5LP.hex</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\I2C-LCD_Test_CQ_PSoC5LP.map</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP.gpdsc</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP.rpt</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP_timing.html</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_BOOT.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_INT.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_MASTER.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_PM.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_SLAVE.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\Pin_I2CM_LCD_Reset.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\Pin_I2CM_LCD_SCL.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\Pin_I2CM_LCD_SDA.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\SPLC792-I2C.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\I2C-LCD_Test_PSoC5LP_ProtoKit.elf</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\I2C-LCD_Test_PSoC5LP_ProtoKit.hex</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\I2C-LCD_Test_PSoC5LP_ProtoKit.map</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\I2C-LCD_Test_PSoC5LP_ProtoKit.gpdsc</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\I2C-LCD_Test_PSoC5LP_ProtoKit.rpt</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\I2C-LCD_Test_PSoC5LP_ProtoKit_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2C-LCD_Test_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_BOOT.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_INT.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_MASTER.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_PM.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\I2CM_LCD_SLAVE.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Pin_I2CM_LCD_Reset.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Pin_I2CM_LCD_SCL.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Pin_I2CM_LCD_SDA.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\SPLC792-I2C.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\I2C-LCD_Test_CQ_PSoC5LP.elf</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\I2C-LCD_Test_CQ_PSoC5LP.hex</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CortexM3\ARM_GCC_493\Debug\I2C-LCD_Test_CQ_PSoC5LP.map</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP.gpdsc</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP.rpt</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP_timing.html</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2C-LCD_Test_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\PSoC 5 Architecture TRM</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CY8C58LP Family Datasheet</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\System Reference Guides</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\System Reference Guides\cy_boot_v5_20</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\cy_pins_v2_10</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\cy_pins_v2_10\cy_pins_v2_10.pdf</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\I2C_v3_50.pdf</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\PSoC 5 Architecture TRM</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CY8C58LP Family Datasheet</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\System Reference Guides</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\System Reference Guides\cy_boot_v5_20</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\cy_pins_v2_10</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\cy_pins_v2_10\cy_pins_v2_10.pdf</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\I2C_v3_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2C-LCD_Test_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\PSoC 5 Architecture TRM</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\CY8C58LP Family Datasheet</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\System Reference Guides</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\System Reference Guides\cy_boot_v5_20</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\cy_pins_v2_10</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\cy_pins_v2_10\cy_pins_v2_10.pdf</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_CQ_PSoC5LP\I2C_v3_50.pdf</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\PSoC 5 Architecture TRM</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\CY8C58LP Family Datasheet</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\System Reference Guides</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\System Reference Guides\cy_boot_v5_20</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\cy_pins_v2_10</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\cy_pins_v2_10\cy_pins_v2_10.pdf</v>
+<v>I2C-LCD_Test_PSoC5LP\I2C-LCD_Test_PSoC5LP_ProtoKit\I2C_v3_50.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\I2C-LCD_Test_PSoC5LP_ProtoKit.cydsn\main.c" />
+<name v="..\..\Develop\Rhythm Machine\Master_PSoC5LP_Test\PSoC\Sequencer_Board__Test\Sequencer_Master_CQ_PSoC5LP_I2C_LCD.cydsn\SPLC792-I2C.h" />
+<name v=".\I2C-LCD_Test_PSoC5LP_ProtoKit.cydsn\I2C-LCD_Test_PSoC5LP_ProtoKit.cydwr" />
+<name v=".\I2C-LCD_Test_PSoC5LP_ProtoKit.cydsn\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
